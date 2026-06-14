@@ -35,7 +35,6 @@ Até o momento, concluí os seguintes módulos e já consigo aplicar estes conce
 
 ### 📫 Vamos nos conectar?
 
-* **LinkedIn:** [Seu Nome No LinkedIn](https://linkedin.com/in/seu-usuario)
-* **E-mail:** seu.email@exemplo.com
+* **LinkedIn:** [Vitor Figueiró](https://www.linkedin.com/in/vitor-figueir%C3%B3-6308a21a2/)
+* **E-mail:** figueiro33.33@gmail.com
 
-*(Nota: Lembre-se de alterar o termo "vitorfigueiro" nos links de estatísticas acima para o nome exato do seu usuário do GitHub para que os gráficos funcionem automaticamente!).*
